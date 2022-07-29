@@ -1,0 +1,57 @@
+.about {
+  width: 360px;
+  padding: 20px;
+}
+
+.about > h3 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: 0.001em;
+  color: #000000;
+}
+
+.about > p {
+  margin-top: 15px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 150%;
+  letter-spacing: 0.001em;
+  color: #6d6d6d;
+}
+.contact{
+  width: 360px;
+  padding: 20px;
+}
+
+
+.contact h1{
+  font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.001em;
+color: #000000;
+
+}
+.contact-data{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contact-data > p{
+  margin-left: 15px;
+}
+
+.contact-data button{
+  border: none;
+  color: white;
+  padding: 6px 20px;
+  background: #000000;
+border-radius: 18px;
+}

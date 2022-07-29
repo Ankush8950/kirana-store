@@ -1,0 +1,42 @@
+.menu {
+  width: auto;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 25px;
+}
+.form {
+  width: 320px;
+  height: 49px;
+  border: 1px solid #CCCCCC;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px 0 10px;
+}
+
+input {
+    width: 200px;
+  border: none;
+  outline: none;
+}
+
+input::placeholder {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.001em;
+  color: #8e8e8e;
+}
+
+.menu .form button {
+  border: none;
+  color:  #8E8E8E;
+  font-weight: 500;
+  font-size: 17px;
+}

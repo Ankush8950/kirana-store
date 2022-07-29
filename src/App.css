@@ -1,0 +1,34 @@
+
+.menu-link {
+  margin-top: 30px;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.menu-link .link {
+  width: auto;
+  background-color: #ffffff;
+  border: 1px solid #d4d1ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 25.5px;
+}
+
+Link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: 37px;
+  border-radius: 25.5px;
+  background-color: #6a5bff;
+}
+
+.link button {
+  border: none;
+  padding: 9px 23px;
+  border-radius: 25.5px;
+  background-color: #6a5bff;
+}

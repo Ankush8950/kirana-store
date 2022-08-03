@@ -11,17 +11,17 @@ const store = [
     },
     {
         img: organic,
-        name: "Carrot(1 Kg)",
-        weight: "₹40/Kg"
+        name: "Organic tattva - Organic Wheat flour (..",
+        weight: "₹200"
     },
     {
         img: Apple,
-        name: "Carrot(1 Kg)",
-        weight: "₹40/Kg"
+        name: "Apple (pack of 4)",
+        weight: "₹90/Kg"
     },
     {
         img: egg,
-        name: "Carrot(1 Kg)",
+        name: "Egg (1 dozen)",
         weight: "₹40/Kg"
     },
 ]
